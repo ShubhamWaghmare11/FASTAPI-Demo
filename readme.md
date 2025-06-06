@@ -1,0 +1,1 @@
+A simple FastAPI Demo application Insurance Premium Predictor using RandomForest. where i use FastAPI and streamlit to accept user input and generate predictions
